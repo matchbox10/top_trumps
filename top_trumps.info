@@ -1,0 +1,4 @@
+name = Top Trumps
+description = A neat little customizeable Top Trumps style game for Drupal
+core = 7.x
+package = Games
